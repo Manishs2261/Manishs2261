@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishs2261&label=Profile%20views&color=0e75b6&style=flat" alt="manishs2261" /> </p>
 
-- 🌱 I’m currently working on Project **PgRoomApp**
+- 🌱 I’m currently working on Project **Appixo**
 
 - 💬 Ask me about **flutter**
 
